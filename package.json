@@ -15,7 +15,7 @@
   "license": "ISC",
   "homepage": "https://github.com/Craig-Burch/node-data-parsing",
   "dependencies": {
-    "aws-sdk": "^2.419.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
